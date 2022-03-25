@@ -9,12 +9,17 @@
     line-height: 100%;
 }
 
-#image {
-position: absolute;
-top: 0px;
-right: 0px;
-width:300px%;
-height:100px;
+#img{
+  max-width:100%;
+  max-height:100%;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+.cat {
+height:30px;
+width:200px;
 border: solid 1px #CCC
 
 }
